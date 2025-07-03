@@ -1,3 +1,5 @@
+https://share.note.sx/vh6jwled#ZAgdKigVtojptJsUG93mPlt/rAFnFs9iJBJp9txyryE
+
 ### 3. 행렬의 Rank 를 계산하는 코드
 
 ### 여인수를 이용하여 행렬식을 구하는 코드
